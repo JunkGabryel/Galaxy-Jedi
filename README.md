@@ -1,7 +1,7 @@
 # *Galaxy-Jedi*
 **Explore em sua nave as curiosidades de StarWars!**
 
-Galaxy Jedi é um site dedicado aos fãs de Star Wars, fornecendo informações detalhadas sobre personagens, filmes e curiosidades do universo Star Wars.
+*Galaxy Jedi é um site dedicado aos fãs de Star Wars, fornecendo informações detalhadas sobre personagens, filmes e curiosidades do universo Star Wars.*
 
 - Funcionalidades
 1.Exploração de Personagens: Descubra detalhes fascinantes sobre seus personagens favoritos de Star Wars.
