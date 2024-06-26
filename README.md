@@ -10,5 +10,4 @@
 
 - Tecnologias Utilizadas
 1. Frontend desenvolvido em HTML, CSS e JavaScript.
-2. Back-end utilizando Node.js e Express para servir os dados.
-3. Dados obtidos através da API pública de Star Wars.
+2. Dados obtidos através da API pública de Star Wars.
